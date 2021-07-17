@@ -20,12 +20,6 @@ Many recent public contributions have been under my [alan-signal][alan-signal] p
 - [Discouraging long-running branches][branch-management]
 - [A deep-dive on physical security tool][revealer-cc-deep-dive] (which actually caused them to re-design)
 
-[alan-signal]: https://github.com/alan-signal
-[bips]: https://github.com/bitcoin/bips
-[kt_sntax_abuse]: https://medium.com/@_west_on/advanced-kotlin-syntax-abuse-b9f5e46230e4
-[microlibraries]: https://medium.com/@_west_on/the-software-microlibrary-52435214c4cf 
-[branch-management]: https://medium.com/@_west_on/long-running-branches-8925a13001ef
-[revealer-cc-deep-dive]: https://medium.com/@_west_on/revealer-cc-deepdive-and-warning-77892b3a24a1
 
 ## Fun fact
 
@@ -33,8 +27,16 @@ Many recent public contributions have been under my [alan-signal][alan-signal] p
 
 ## GitHub Stats
 
-[![My Personal](https://github-readme-stats.vercel.app/api?username=westonal&count_private=true&show_icons=true&include_all_commits=true&custom_title=Personal)](https://github.com/anuraghazra/github-readme-stats)
-[![My Signal](https://github-readme-stats.vercel.app/api?username=alan-signal&count_private=true&show_icons=true&include_all_commits=true&custom_title=At%20Signal)](https://github.com/anuraghazra/github-readme-stats)
+[![My Personal](https://github-readme-stats.vercel.app/api?username=westonal&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,stars&custom_title=Personal)](https://github.com/anuraghazra/github-readme-stats)
+[![My Signal](https://github-readme-stats.vercel.app/api?username=alan-signal&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,issues,stars&custom_title=At%20Signal)][alan-signal]
+
+
+[alan-signal]: https://github.com/alan-signal
+[bips]: https://github.com/bitcoin/bips
+[kt_sntax_abuse]: https://medium.com/@_west_on/advanced-kotlin-syntax-abuse-b9f5e46230e4
+[microlibraries]: https://medium.com/@_west_on/the-software-microlibrary-52435214c4cf 
+[branch-management]: https://medium.com/@_west_on/long-running-branches-8925a13001ef
+[revealer-cc-deep-dive]: https://medium.com/@_west_on/revealer-cc-deepdive-and-warning-77892b3a24a1
 
 <!--
 **westonal/westonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
