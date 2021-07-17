@@ -31,6 +31,11 @@ Many recent public contributions have been under my [alan-signal][alan-signal] p
 
 - In 2019 I wrote a genetic algorithm to take the [BF-joust hill](https://esolangs.org/wiki/BF_Joust) at [zem.fi/bfjoust](http://zem.fi/bfjoust/scores/). After 100M individual bots were tested across thousands of generations over 24 hrs and rated both on their ability to beat the other bots on the hill and minimal program length, an almost unbeatable bot emerged which I named after one of my cats. Today, `westonian.Sookie` still holds the hill if you want to take a shot!
 
+## GitHub Stats
+
+[![My Personal](https://github-readme-stats.vercel.app/api?username=westonal)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&include_all_commits=true)
+[![My Signal](https://github-readme-stats.vercel.app/api?username=alan-signal)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&include_all_commits=true)
+
 <!--
 **westonal/westonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
