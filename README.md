@@ -1,6 +1,6 @@
 # Alan Evans
 
-Engineer at Signal Messenger.
+Engineer at Twitter.
 
 Many recent public contributions have been under my [alan-signal][alan-signal] profile.
 
