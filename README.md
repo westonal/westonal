@@ -1,6 +1,6 @@
 # Alan Evans
 
-Staff Engineer at New York Times.
+Staff Engineer at [The New York Times](https://github.com/nytimes).
 
 Many recent public contributions have been under my [alan-signal][alan-signal] profile.
 
