@@ -1,6 +1,6 @@
 # Alan Evans
 
-Engineer at Twitter.
+Staff Engineer at New York Times.
 
 Many recent public contributions have been under my [alan-signal][alan-signal] profile.
 
