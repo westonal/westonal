@@ -1,6 +1,8 @@
 # Alan Evans
 
-Staff Engineer at [The New York Times](https://github.com/nytimes).
+Android Engineer at Zillow.
+
+Previously Signal, Twitter, New York Times
 
 Many recent public contributions have been under my [alan-signal][alan-signal] profile.
 
